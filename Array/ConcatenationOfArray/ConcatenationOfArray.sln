@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenationOfArray", "ConcatenationOfArray.csproj", "{B7DA635A-22F7-4775-A4A9-1970847E31D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildArrayFromPermutation", "BuildArrayFromPermutation\BuildArrayFromPermutation.csproj", "{34262D3E-F6D4-44D8-B9C6-AB91E4E5850F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildArrayFromStringPermutation", "..\BuildArrayFromStringPermutation\BuildArrayFromStringPermutation.csproj", "{FB2C3809-14AB-4AF8-A719-69829E7E1BE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B7DA635A-22F7-4775-A4A9-1970847E31D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7DA635A-22F7-4775-A4A9-1970847E31D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7DA635A-22F7-4775-A4A9-1970847E31D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34262D3E-F6D4-44D8-B9C6-AB91E4E5850F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34262D3E-F6D4-44D8-B9C6-AB91E4E5850F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34262D3E-F6D4-44D8-B9C6-AB91E4E5850F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34262D3E-F6D4-44D8-B9C6-AB91E4E5850F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2C3809-14AB-4AF8-A719-69829E7E1BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2C3809-14AB-4AF8-A719-69829E7E1BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2C3809-14AB-4AF8-A719-69829E7E1BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2C3809-14AB-4AF8-A719-69829E7E1BE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
