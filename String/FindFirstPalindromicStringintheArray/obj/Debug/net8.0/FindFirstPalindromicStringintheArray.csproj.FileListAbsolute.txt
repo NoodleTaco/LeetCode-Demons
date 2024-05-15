@@ -1,0 +1,15 @@
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\bin\Debug\net8.0\FindFirstPalindromicStringintheArray.exe
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\bin\Debug\net8.0\FindFirstPalindromicStringintheArray.deps.json
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\bin\Debug\net8.0\FindFirstPalindromicStringintheArray.runtimeconfig.json
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\bin\Debug\net8.0\FindFirstPalindromicStringintheArray.dll
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\bin\Debug\net8.0\FindFirstPalindromicStringintheArray.pdb
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.AssemblyInfoInputs.cache
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.AssemblyInfo.cs
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.csproj.CoreCompileInputs.cache
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.sourcelink.json
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.dll
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\refint\FindFirstPalindromicStringintheArray.dll
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.pdb
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\FindFirstPalindromicStringintheArray.genruntimeconfig.cache
+c:\Users\nasus\Desktop\CS_Personal\Misc\LeetCode\String\FindFirstPalindromicStringintheArray\obj\Debug\net8.0\ref\FindFirstPalindromicStringintheArray.dll
