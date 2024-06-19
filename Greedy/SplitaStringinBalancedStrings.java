@@ -28,7 +28,7 @@ public class SplitaStringinBalancedStrings {
     public static void main(String args[]){
         SplitaStringinBalancedStrings outer = new SplitaStringinBalancedStrings();
         
-        System.out.println(solution.balancedStringSplit("LRLRLLRR"));
+        //System.out.println(solution.balancedStringSplit("LRLRLLRR"));
     }
 }
 
